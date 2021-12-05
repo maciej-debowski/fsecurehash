@@ -1,0 +1,38 @@
+{
+  "_from": "fsecurehash",
+  "_id": "fsecurehash@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-+NJhQYKq5rLuTLM/JIL1a+pq2Z2El/UlgQVJ6QY3yw2Vomo8tJbeJIq+ZUzYpn+v0OgVisN/sjL2zgFnXFbUHQ==",
+  "_location": "/fsecurehash",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fsecurehash",
+    "name": "fsecurehash",
+    "escapedName": "fsecurehash",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fsecurehash/-/fsecurehash-0.0.2.tgz",
+  "_shasum": "c1344c10e6478f84903dd2fb22eff236af903068",
+  "_spec": "fsecurehash",
+  "_where": "F:\\mydrop\\backend",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Read README.md",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "fsecurehash",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
